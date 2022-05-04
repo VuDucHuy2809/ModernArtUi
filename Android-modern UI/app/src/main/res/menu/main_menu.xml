@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/more_info"
+        android:title="@string/more_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+</menu>
